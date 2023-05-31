@@ -6,4 +6,3 @@ commands:
   playerhead:
     description: get the specified player's head
     usage: /playerhead <player>
-    aliases: [head]
