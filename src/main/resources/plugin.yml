@@ -1,0 +1,9 @@
+name: PlayerHeads
+version: '${project.version}'
+main: com.imabanana80.playerheads.PlayerHeads
+api-version: 1.19
+commands:
+  playerhead:
+    description: get the specified player's head
+    usage: /playerhead <player>
+    aliases: [head]
