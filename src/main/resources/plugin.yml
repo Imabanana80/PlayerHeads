@@ -6,3 +6,4 @@ commands:
   playerhead:
     description: get the specified player's head
     usage: /playerhead <player>
+    permission: playerhead.give
